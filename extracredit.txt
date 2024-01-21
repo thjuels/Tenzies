@@ -1,0 +1,5 @@
+1. Put real dots on the dice instead of 1,2,3,4,5,6 - DONE
+2. Track # of rolls it took to win - DONE
+3. Track amount of time to win
+4. Save best time (to local storage)
+5. Save best rolls (to local storage) - DONE
